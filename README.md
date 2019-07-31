@@ -18,7 +18,7 @@ You can contribute to this project by forking it through github.
 
 ## Licensing
 
-The code in this project is licensed under MIT license.
+The code in this project is licensed under GNU General Public License v3.0.
 
 ## Authors
 
